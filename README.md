@@ -37,4 +37,4 @@ Vremenom se kugle sve brze stvaraju te redosled prebacivanja postaje bitan.
 6. ./lift
 
 # Screenshot
-![nema slike](https://github.com/MATF-RG17/RG057-lift/blob/master/screenshots/08.png)
+![nema slike](https://github.com/mi15405/Lift/blob/master/screenshots/08.png)
