@@ -34,7 +34,7 @@ Vremenom se kugle sve brze stvaraju te redosled prebacivanja postaje bitan.
 
 1. sudo apt-get update 
 2. apt-get install freeglut3
-3. git clone https://github.com/MATF-RG17/RG057-lift.git
+3. git clone https://github.com/mi15405/Lift
 4. cd RG057-lift/src
 5. make
 6. ./lift
