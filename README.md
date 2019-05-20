@@ -1,5 +1,8 @@
 # Lift
 
+# Screenshot
+![nema slike](https://github.com/mi15405/Lift/blob/master/screenshots/08.png)
+
 ## Opis
 Kugle se stvaraju iz crnih portala sa leve strane i zadatak je prebaciti ih do sarenih portala sa desne strane.
 Igrac na raspolaganju ima lift koji u pocetku moze da ponese samo 3 kugle.
@@ -36,5 +39,4 @@ Vremenom se kugle sve brze stvaraju te redosled prebacivanja postaje bitan.
 5. make
 6. ./lift
 
-# Screenshot
-![nema slike](https://github.com/mi15405/Lift/blob/master/screenshots/08.png)
+
