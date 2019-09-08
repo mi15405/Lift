@@ -26,14 +26,14 @@ Vremenom se kugle sve brze stvaraju te redosled prebacivanja postaje bitan.
 
 ## :video_game: Kontrole
 
-| Action | Akcija | Dugme |
+| Action (Akcija) | Dugme |
 | ---| --- |
-|  Move Up | kretanje na gore  | w |
-|  Move Down | kretanje na dole | s |
-|  Lower Left Bridge | spustanje levog mosta | a |
-|  Lower Right Bridge | spustanje desnog mosta | d |
-|  Stop Transfer | prekid prebacivanja kugli | space |
-|  Quit | izlaz iz igre  | Esc |
+|  Move Up (kretanje na gore)                  | w |
+|  Move Down (kretanje na dole)                | s |
+|  Lower Left Bridge (spustanje levog mosta)   | a |
+|  Lower Right Bridge (spustanje desnog mosta) | d |
+|  Stop Transfer (prekid prebacivanja kugli)   | space |
+|  Quit (izlaz iz igre)                        | Esc |
 
 ## Instalacija
 
