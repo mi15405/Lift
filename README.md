@@ -3,6 +3,11 @@
 # Screenshot
 ![nema slike](https://github.com/mi15405/Lift/blob/master/screenshots/08.png)
 
+## Description
+Transfer balls to the floors of same color, while moving vertically and lowering bridges.
+Better do it as quick as possible, before you burn in lava.
+
+
 ## Opis
 Kugle se stvaraju iz crnih portala sa leve strane i zadatak je prebaciti ih do sarenih portala sa desne strane.
 Igrac na raspolaganju ima lift koji u pocetku moze da ponese samo 3 kugle.
@@ -21,14 +26,14 @@ Vremenom se kugle sve brze stvaraju te redosled prebacivanja postaje bitan.
 
 ## :video_game: Kontrole
 
-| Akcija | Dugme |
+| Action | Akcija | Dugme |
 | ---| --- |
-|  kretanje na gore  | w |
-|  kretanje na dole | s |
-|  spustanje levog mosta | a |
-|  spustanje desnog mosta | d |
-|  prekid prebacivanja kugli | space |
-|  izlaz iz igre  | Esc |
+|  Move Up | kretanje na gore  | w |
+|  Move Down | kretanje na dole | s |
+|  Lower Left Bridge | spustanje levog mosta | a |
+|  Lower Right Bridge | spustanje desnog mosta | d |
+|  Stop Transfer | prekid prebacivanja kugli | space |
+|  Quit | izlaz iz igre  | Esc |
 
 ## Instalacija
 
